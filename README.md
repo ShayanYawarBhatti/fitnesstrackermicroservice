@@ -4,14 +4,13 @@ This document outlines how another program(the main program) can communicate wit
 
 ## How to Request Data
 Send a POST request to `/log_workout` with:
-```json
 {
   "name": "Jogging",
   "date": "08/04/2025",
   "duration": 30
 }
 
-## Example:
+Example:
 import requests
 data = {"name": "Jogging", "date": "08/04/2025", "duration": 30}
 requests.post("http://localhost:5000/log_workout", json=data)
@@ -24,5 +23,6 @@ Example:
 import requests
 r = requests.get("http://localhost:5000/weekly_workouts")
 print(r.json())
+
 
 
