@@ -1,4 +1,6 @@
 # Microservice A – Workout Logger
+## Communication Contract
+This document outlines how another program(the main program) can communicate with the microservice.The contract is stable and can be relied upon for integration
 
 ## How to Request Data
 
@@ -35,3 +37,4 @@ G. Notes:**
 - Data is stored in-memory  
 - No database yet  
 - All requests are JSON-based
+
