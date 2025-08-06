@@ -1,10 +1,10 @@
-  # 🏋️ Fitness Tracker – Microservice A
+  # Fitness Tracker – Microservice A
 
   This microservice allows users to log workouts and retrieve workouts done in the current week. It is implemented using Flask and is part of a larger microservices-based fitness application.
 
   ---
 
-  ## 📜 Communication Contract
+  ## Communication Contract
   This document outlines how another program(the main program) can communicate with the microservice.The contract is stable and can be relied upon for integration
 
   ### A. How to REQUEST data from this microservice
@@ -72,7 +72,7 @@
 
   ---
 
-  ## 🔧 Running the Microservice
+  ## Running the Microservice
 
   ```bash
   pip install flask
@@ -84,7 +84,7 @@
 
   ---
 
-  ## 🧪 Test Program
+  ## Test Program
 
   Run:
 
@@ -96,7 +96,7 @@
 
   ---
 
-  ## 📁 Repo Contents
+  ## Repo Contents
 
   - `microservice_a.py` – The main Flask app
   - `test_microservice.py` – Test client for the API
@@ -106,6 +106,7 @@
 
   ---
 
-  ## 🤝 Teammate Name
+  ## Teammate Name
 
   Implemented for: **[Insert Teammate Name]**
+
