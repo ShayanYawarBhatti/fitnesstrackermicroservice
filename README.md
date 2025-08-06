@@ -108,5 +108,6 @@
 
   ## Teammate Name
 
-  Implemented for: **[Insert Teammate Name]**
+  Implemented for: Rylie Shaniyo
+
 
