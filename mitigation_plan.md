@@ -1,12 +1,12 @@
-# 🛡️ Mitigation Plan – Microservice A (Workout Logger)
+# Mitigation Plan – Microservice A (Workout Logger)
 
 ### A. For which teammate did you implement “Microservice A”?
-Implemented for: 
+Implemented for: Rylie Shaniyo
 
 ---
 
 ### B. What is the current status of the microservice?
-✅ The microservice is complete and fully functional. It has been tested with a client script.
+The microservice is complete and fully functional. It has been tested with a client script.
 
 ---
 
@@ -26,7 +26,7 @@ It will run locally at: `http://localhost:5000`
 ---
 
 ### E. If your teammate cannot access/call your microservice, what should they do?
-They should immediately message me on Discord or email me at [your.email@example.com]. I will be available to troubleshoot any issues.
+They should immediately message me on Discord. I will be available to troubleshoot any issues.
 
 ---
 
